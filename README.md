@@ -1,5 +1,4 @@
 # Held-karp-Javascript
 Implementation of held-karp using dynamic programming for JS
 
-Using bitmask to to keep track of different attempted combinations. Performs bottom up memoization. Input is an adjacency matrix.
-
+Finds the best route through any set of points. Input is an adjacency matrix. Does not use specific starting location.
