@@ -1,5 +1,4 @@
-//William Cary W09668836
-//Ian Kelly W09686567
+//William Cary
 function tsp_hk(dist){
     if(dist.length < 2){
         console.log("MATRIX NOT LARGE ENOUGH");
